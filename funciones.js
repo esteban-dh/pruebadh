@@ -5,3 +5,5 @@ const soyUnaFunction = () => {
 const nuevaFucion = () => {
   console.log("otra funcion nueva");
 };
+
+nuevaFucion();
