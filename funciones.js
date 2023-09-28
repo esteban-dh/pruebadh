@@ -1,7 +1,7 @@
 const soyUnaFunction = () => {
-    console.log('hello')
-}
+  console.log("hello");
+};
 
 const nuevaFucion = () => {
-    console.log('otra funcion')
-}
+  console.log("otra funcion nueva");
+};
